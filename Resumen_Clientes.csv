@@ -1,0 +1,13 @@
+nombre,clientes_nuevos,clientes_fidelizados,satisfaccion,quejas,recomendaciones,retencion_clientes,nombre_producto
+2022-01-01,150,500,8.2,10,30,90%,Jamón Serrano
+2022-02-01,180,550,8.5,12,35,92%,Salchichón Ibérico
+2022-03-01,200,600,8.6,8,40,93%,Chorizo Español
+2022-04-01,160,520,8.3,15,28,91%,Lomo Ibérico
+2022-05-01,190,580,8.7,11,33,94%,Chistorra
+2022-06-01,175,540,8.4,14,32,91%,Salchichas Frescas
+2022-07-01,210,620,8.8,9,38,95%,Longaniza
+2022-08-01,195,590,8.6,10,36,93%,Morcilla
+2022-09-01,185,570,8.5,12,35,92%,Butifarra
+2022-10-01,200,610,8.9,7,42,96%,Panceta
+2022-11-01,170,560,8.3,15,28,91%,Morcón
+2022-12-01,185,590,8.7,11,33,94%,Fuet
